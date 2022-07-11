@@ -1,0 +1,7 @@
+Amazon Machine Image (AMI)
+
+Instance type
+t2.micro
+t3.2xlarge -> Best image for this instance
+amzn2-ami-kernel-5.10-hvm-2.0.20220606.1-x86_64-gp2
+ami-0cff7528ff583bf9a
